@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2a5c49d.css",
+    "main.js": "/static/js/main.1373ad4d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Pcra_Quiz.png": "/static/media/Pcra_Quiz.dc11b78a8b11bf50ea16.png",
+    "static/media/The Joy of Computing using Python.jpg": "/static/media/The Joy of Computing using Python.714c4293842f4c8648db.jpg",
+    "static/media/Problem Solving Through Programming In C.jpg": "/static/media/Problem Solving Through Programming In C.ad6e180ae07105314fbe.jpg",
+    "static/media/AayushkiMehnat.png": "/static/media/AayushkiMehnat.4b7624944bb48baf0deb.png",
+    "static/media/Enhancing Soft Skills and Personality.png": "/static/media/Enhancing Soft Skills and Personality.d9ec96fc453cd8985db9.png",
+    "static/media/Developing Soft Skills and Personality.png": "/static/media/Developing Soft Skills and Personality.92774db2de985aaa6e5a.png",
+    "static/media/Matematics_Standard.jpeg": "/static/media/Matematics_Standard.99910b4b6102ccc06b81.jpeg",
+    "static/media/AayushkiResume.png": "/static/media/AayushkiResume.a7b113f8703af61bb691.png",
+    "static/media/AayushkiPehchan.png": "/static/media/AayushkiPehchan.c8ed6fcc74cf004b2054.png",
+    "static/media/Rscit.jpeg": "/static/media/Rscit.a0de7c7801bda205ae4f.jpeg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Vidhan_Sabha_Election.jpeg": "/static/media/Vidhan_Sabha_Election.6080ad78924f5c21568e.jpeg",
+    "static/media/Aayush Profile.jpeg": "/static/media/Aayush Profile.b0eef698ca0bf2ff0b6a.jpeg",
+    "static/media/AAYUSH's Resume.pdf": "/static/media/AAYUSH's Resume.67d1114fa4d77155b3c1.pdf",
+    "static/media/Ganga_Quest.jpeg": "/static/media/Ganga_Quest.6aea0980ad08f17e7519.jpeg",
+    "static/media/Lok_Shabha_Election.jpeg": "/static/media/Lok_Shabha_Election.37c0f667c5d6fb2885cc.jpeg",
+    "static/media/student_management_system.jpeg": "/static/media/student_management_system.22426479c7c6362a1cad.jpeg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.ab390ca511f625ded324.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.f2a5c49d.css.map": "/static/css/main.f2a5c49d.css.map",
+    "main.1373ad4d.js.map": "/static/js/main.1373ad4d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a5c49d.css",
+    "static/js/main.1373ad4d.js"
+  ]
+}
